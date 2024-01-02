@@ -1,9 +1,10 @@
 import random
 import os
 
+
 # Constantes
 FICHIER_MOTS = "mots.txt"
-FICHIER_SCORES_GLOBAUX = "scores_globaux.txt"
+FICHIER_SCORES_GLOBAUX = "scores.txt"
 MAX_ERREURS = 5
 POINTS_FACILE = 10
 POINTS_MOYEN = 20
